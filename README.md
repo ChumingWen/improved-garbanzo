@@ -9,7 +9,7 @@
    * What are the GitHub usernames and names of your team members?
        * GitHub username 1:ChumingWen       name 1:Chuming Wen
        * GitHub username 2: khuff3       name 2: Katherine Lederer-Huff
-       * GitHub username 3:       name 3:
+       * GitHub username 3: ychen698@wisc.edu     name 3: Yuheng Chen
        * GitHub username 4:       name 4:
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 

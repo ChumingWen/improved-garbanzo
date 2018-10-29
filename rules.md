@@ -1,12 +1,13 @@
 # X-Team 5 Rules
 
-These rules establish how our team will assign tasks,
-track progress on each task, and communicate with each other 
-when a member is unable to complete a task that has been assigned to that member.
+These rules will serve as instructions on the task assignments,
+progress tracking, and intermomber communications, especially 
+when one or more of the members are unable to complete a task that has been assigned.
 
 This document helps individual members understand the team's expectations,
 and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
+
 
 ## How we will assign (and reassign) tasks
 All team members should read through the instruction and split the task according to expected workload. Then, team leader should assign each part to members during team meeting or messenger group.
@@ -26,5 +27,6 @@ Keep track of progress of each team members. Always ask quetions and try to help
 
 ## Add any other rules that your team establishes to help each other work effectively together
 Arrive on time.
+Check facebook messenger regularly.
 
 

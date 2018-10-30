@@ -21,20 +21,12 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
   ** a custom data structure designed and built by your team
   
   ** comprehensive testing of individual units
-  
- Caution: You are not being asked to implement this program, at least not yet. 
- We just want your group to make a proposal or pitch for your program.
- 
- Tip: Your custom data structure can be composed of or extensions of data structures that you have learned and used in previous programming assignments.  We're looking for decisions about how to build a high-level data structure that will likely have lower-level components.
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
-
 Suppose that there are several friends trying to shrow a party. Each of them lives at a different location that is capable of hosting one. The program helps calculate the optimal venue of the party so that each of the friends travels the least distance.
 
-Our program will utilize a graph to store uses' location and calculate distances from each other. May consider incorporating Google Maps API for practicality of the program.
+Our program will utilize a graph to store uses' location and calculate distances from each other. May consider incorporating Google Maps API for practicality of the program. We will create Junit test the check whether the result is correct.
 
 ## Questions to answer for Exercise #2
 
@@ -70,7 +62,10 @@ class User:
 class Graph:
     Attributes: list of users
     Functions: calculate distance for each user
-
+    
+Class Main:
+   Main.java
+   main class of our design.
 
 Name each interface or class and briefly describe its function or purpose.
 see 4 and 5.

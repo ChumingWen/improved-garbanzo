@@ -13,8 +13,9 @@
        * GitHub username 4:       name 4:
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 
+   10/29/2018 8pm
    * How long did it take your team to complete this exercise? 
-
+   more than one hour (including discussion)
 ## Table of Contents
 
 1. README.md - overview of files in this repository (this file)

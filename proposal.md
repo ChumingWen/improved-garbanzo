@@ -1,4 +1,4 @@
-# X-Team 5 Project Proposal: Where To Party?
+# X-Team 5 Project Proposal: Where To Party
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -31,7 +31,7 @@ Our program will utilize a graph to store uses' location and calculate distances
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-Where To Party?
+Where To Party
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
@@ -42,6 +42,7 @@ Sample output:
 The party will be hosted at Jerry's house:
 777 University Ave
 Madison, WI 53715
+The average distance to Jerry's house is: 2.33 miles.
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 Each user will enter his/her name and address(for primary versions we will be using made up coordiantes to represent locations, ideally addresses will be stored in accordance with the Google Map API). 
